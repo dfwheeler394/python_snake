@@ -1,5 +1,4 @@
 import math
-import random
 import pygame
 import random
 import tkinter as tk
